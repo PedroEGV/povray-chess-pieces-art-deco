@@ -10,3 +10,8 @@ First install POV-Ray:
 ```
 $ sudo apt-get install povray
 ```
+Then, generate the scenes from .pov files:
+```
+$ povray +IPieces.pov +OPieces.png +W1024 +H768 +A0.001
+$ povray +IScene.pov +OScene.png +W1024 +H768 +A0.001
+```
