@@ -3,6 +3,10 @@ POV-Ray Chess Pieces Art Deco Style
 
 Chess pieces done using basic shapes and operations form POV-Ray.
 
+This pieces were modeled using the following sample image:
+
+![Model](./Model.jpg)
+
 How to Test It
 --------------
 
